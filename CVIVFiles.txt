@@ -1,0 +1,129 @@
+################
+# CV
+################
+
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0180/data.csv
+mv data.csv data_00_CV_LGAD5_100Hz-0C.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0174/data.csv
+mv data.csv data_00_CV_LGAD5_100Hz-20C.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0154/data.csv
+mv data.csv data_44_CV_LGAD5_100Hz-5C.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0162/data.csv
+mv data.csv data_22_CV_LGAD5_100Hz-0C.csv
+
+
+
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0191/data.csv
+mv data.csv data_00_CV_LGAD1_100Hz-20C.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0192/data.csv
+mv data.csv data_00_CV_LGAD1_100Hz-10C.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0194/data.csv
+mv data.csv data_22_CV_LGAD1_100Hz-20C.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0195/data.csv
+mv data.csv data_22_CV_LGAD1_100Hz-10C.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0197/data.csv
+mv data.csv data_44_CV_LGAD1_100Hz-0C.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0199/data.csv
+mv data.csv data_44_CV_LGAD1_100Hz-10C.csv
+
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0201/data.csv
+mv data.csv data_00_CV_LGAD4_100Hz-20C.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0202/data.csv
+mv data.csv data_00_CV_LGAD4_100Hz-10C.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0203/data.csv
+mv data.csv data_22_CV_LGAD4_100Hz-20C.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0207/data.csv
+mv data.csv data_44_CV_LGAD4_100Hz-20C.csv
+
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0093/data.csv
+mv data.csv data_preirrad_00_CV_LGAD4_10000Hz-20C.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0097/data.csv
+mv data.csv data_preirrad_22_CV_LGAD4_10000Hz-20C.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0102/data.csv
+mv data.csv data_preirrad_44_CV_LGAD4_10000Hz-20C.csv
+
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0117/data.csv
+mv data.csv data_preirrad_00_CV_LGAD3_-20C.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0123/data.csv
+mv data.csv data_preirrad_22_CV_LGAD3_-20C.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0127/data.csv
+mv data.csv data_preirrad_44_CV_LGAD3_-20C.csv
+
+
+################
+# IV
+################
+
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0200/data.csv
+mv data.csv data_00_IV_LGAD4.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0204/data.csv
+mv data.csv data_22_IV_LGAD4.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0206/data.csv
+mv data.csv data_44_IV_LGAD4.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0092/data.csv
+mv data.csv data_preirrad_00_IV_LGAD4.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0096/data.csv
+mv data.csv data_preirrad_22_IV_LGAD4.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0101/data.csv
+mv data.csv data_preirrad_44_IV_LGAD4.csv
+
+
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0196/data.csv
+mv data.csv data_44_IV_LGAD1.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0193/data.csv
+mv data.csv data_22_IV_LGAD1.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0190/data.csv
+mv data.csv data_00_IV_LGAD1.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0064/data.csv
+mv data.csv data_preirrad_00_IV_LGAD1.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0068/data.csv
+mv data.csv data_preirrad_22_IV_LGAD1.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0075/data.csv
+mv data.csv data_preirrad_44_IV_LGAD1.csv
+
+
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0173/data.csv
+mv data.csv data_00_IV_LGAD5.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0171/data.csv
+mv data.csv data_22_IV_LGAD5.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0149/data.csv
+mv data.csv data_44_IV_LGAD5.csv
+
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0036/data.csv
+mv data.csv data_preirrad_00_IV_LGAD5.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0044/data.csv
+mv data.csv data_preirrad_22_IV_LGAD5.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0111/data.csv
+mv data.csv data_preirrad_44_IV_LGAD5.csv
+
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0138/data.csv
+mv data.csv data_00_IV_LGAD2.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0136/data.csv
+mv data.csv data_22_IV_LGAD2.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0137/data.csv
+mv data.csv data_44_IV_LGAD2.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0080/data.csv
+mv data.csv data_preirrad_00_IV_LGAD2.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0084/data.csv
+mv data.csv data_preirrad_22_IV_LGAD2.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0088/data.csv
+mv data.csv data_preirrad_44_IV_LGAD2.csv
+
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0116/data.csv
+mv data.csv data_preirrad_00_IV_LGAD3.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0122/data.csv
+mv data.csv data_preirrad_22_IV_LGAD3.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0126/data.csv
+mv data.csv data_preirrad_44_IV_LGAD3.csv
+
+
+################
+# IV +20C
+################
+
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0115/data.csv
+mv data.csv data_preirrad_00_IV_LGAD3.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0120/data.csv
+mv data.csv data_preirrad_22_IV_LGAD3.csv
+wget https://cernbox.cern.ch/remote.php/dav/public-files/R2uaFWgaRNHi4YP/data-old/CVIV-Run0124/data.csv
+mv data.csv data_preirrad_44_IV_LGAD3.csv
